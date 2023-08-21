@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Pecore.
+- 👋 Hi, I’m James Pecore (currently @jjp2196, previously @jpecore18)
 - 👀 I’m interested in Data Science and Software Development.
 - 🌱 I’m currently learning more about MLOps and Data Science.
 - 💞️ I’m looking to collaborate on projects requiring the analysis of large datasets to address specific problems.
